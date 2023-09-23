@@ -10,4 +10,3 @@ StandardScaler scales the features to have a mean of 0 and a standard deviation 
 
 
 - **Improved Model Performance:** Scaling can lead to better model convergence and faster training times for algorithms that are sensitive to feature scales, such as gradient-based optimization methods.
-- 
